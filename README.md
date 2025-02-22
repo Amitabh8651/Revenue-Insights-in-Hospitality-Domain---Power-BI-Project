@@ -7,6 +7,50 @@ This project analyzes revenue trends, occupancy rates, booking patterns, and cus
 * Power BI - Data Visualization & Dashboarding
 * SQL - Database Management
 
+# 📊 Power BI Dashboard - Hotel Performance Metrics  
+
+This Power BI dashboard provides key performance indicators (KPIs) to track and analyze hotel performance, bookings, revenue, and occupancy trends.  
+
+## 🔹 Key Metrics  
+
+### 🏨 Booking & Revenue Metrics  
+- **Revenue**  
+- **Total Bookings**  
+- **Total Capacity**  
+- **Total Successful Bookings**  
+
+### 📈 Occupancy & Ratings  
+- **Occupancy %**  
+- **Average Rating**  
+
+### ❌ Booking & Cancellation Data  
+- **Number of Days**  
+- **Total Cancelled Bookings**  
+- **Cancellation %**  
+- **Total Checked Out**  
+- **Total No-Show Bookings**  
+- **No-Show Rate %**  
+
+### 📊 Booking Distribution  
+- **Booking % by Platform**  
+- **Booking % by Room Class**  
+
+### 💰 Financial & Performance Metrics  
+- **ADR (Average Daily Rate)**  
+- **Realization %**  
+- **RevPAR (Revenue per Available Room)**  
+- **DBRN (Daily Booking Rate Normalized)**  
+- **DSRN (Daily Successful Reservation Normalized)**  
+- **DURN (Daily Utilization Rate Normalized)**  
+
+### 📅 Week-over-Week (WoW) Changes  
+- **Revenue WoW Change %**  
+- **Occupancy WoW Change %**  
+- **ADR WoW Change %**  
+- **RevPAR WoW Change %**  
+- **Realization WoW Change %**  
+- **DSRN WoW Change %**  
+
  ## Revenue Trends 📈
   * Total revenue generated: $1.69B💰
     
